@@ -63,6 +63,7 @@ function App() {
     </>
    )
   }
+  ///Cambio para clase
 
   return (
     <>
